@@ -37,7 +37,6 @@ current_job: Backend Developer
 education:
   [
     "Self-Taught Back-End Developer ",
-    
     "Bachelor's in Computers and Informations",
   ]
 company: Soulber
