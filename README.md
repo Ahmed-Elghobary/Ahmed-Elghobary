@@ -36,9 +36,9 @@ located_in: Mansoura, Egypt
 current_job: Backend Developer
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Self-Taught Back-End Developer ",
+    
+    "Bachelor's in Computers and Informations",
   ]
 company: Soulber
 fields_of_interests:
