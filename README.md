@@ -93,6 +93,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/Ahmed-Elghobary">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elghobary&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elghobary&theme=noctis_minimus&layout=compact" />
 </a>
@@ -103,3 +104,5 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 </p>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elghobary)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Elghobary)](https://github.com/Ahmed-Elghobary/github-readme-stats)
