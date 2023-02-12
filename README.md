@@ -104,5 +104,3 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 </p>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elghobary)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Elghobary)]
