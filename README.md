@@ -101,3 +101,5 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elghobary)
