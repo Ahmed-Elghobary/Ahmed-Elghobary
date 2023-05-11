@@ -43,8 +43,7 @@ company: Soulber
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
+    "Database",
     "UI/UX",
     "Game Development",
     "DevOps",
