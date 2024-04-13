@@ -39,26 +39,32 @@ education:
     "Self-Taught Back-End Developer ",
     "Bachelor's in Computers and Informations",
   ]
-company: Soulber
+company: {non}
 fields_of_interests:
   [
     "Web Development",
     "Database",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "C#",
+    "OOP",
+    "Java Script",
+    "Database Design",
+    "Sql",
+    " Entity Framework",
+    "ASP.Net Core",
+    "RESTful API",
+    "Git & GitHub",
+    "Intern - Web development using asp.net in iti",
+    
+   
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Docker, Angular Framework"]
+2024 Goals: ["Create 15+ Projects and learn at least 5 new Technologies."]
+hobbies: [" Video Games","Football", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
   
 ---  
