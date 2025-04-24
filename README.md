@@ -30,7 +30,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-```yaml
+yaml
 name: Ahmed Osama
 located_in: Mansoura, Egypt
 current_job: Backend Developer
@@ -65,7 +65,7 @@ technical_background:
 currently_learning: ["Docker, Angular Framework"]
 2024 Goals: ["Create 15+ Projects and learn at least 5 new Technologies."]
 hobbies: [" Video Games","Football", "Cinema", "Skateboarding", "Art", "Comedy"]
-```
+
   
 ---  
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
