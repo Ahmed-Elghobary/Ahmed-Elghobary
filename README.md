@@ -39,7 +39,7 @@ education:
     "Self-Taught Back-End Developer ",
     "Bachelor's in Computers and Informations",
   ]
-company: {non}
+company: {Egabi Soultions}
 fields_of_interests:
   [
     "Web Development",
