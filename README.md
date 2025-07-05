@@ -1,87 +1,55 @@
+
+
+
+---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi👋I'm-Ahmed!&height=100&section=header&textColor=000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi👋I'm-Ahmed!&height=100&section=header&textColor=00000"/>
 </p>
 
-
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-
-
-
-
+<h1 align="center">Let's Connect and Have a Chat! 💬</h1>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src="https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp" width="300"/>
 </p>
 
 ---
----
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+## 👨🏻‍💻 A Little Bit About Me
 
-yaml
+```yaml
 name: Ahmed Osama
-located_in: Mansoura, Egypt
-current_job: Backend Developer
+location: Mansoura, Egypt
+current_job: Backend Developer @ Egabi Solutions
 education:
-  [
-    "Self-Taught Back-End Developer ",
-    "Bachelor's in Computers and Informations",
-  ]
-company: {Egabi Soultions}
-fields_of_interests:
-  [
-    "Web Development",
-    "Database",
-    
-  ]
+  - Self-Taught Back-End Developer
+  - Bachelor's in Computers and Information
+fields_of_interest:
+  - Web Development
+  - Database
 technical_background:
-  [
-    "C#",
-    "OOP",
-    "Java Script",
-    "Database Design",
-    "Sql",
-    " Entity Framework",
-    "ASP.Net Core",
-    "RESTful API",
-    "Git & GitHub",
-    "Intern - Web development using asp.net in iti",
-    
-   
-  ]
-  
-currently_learning: ["Docker, Angular Framework"]
-2024 Goals: ["Create 15+ Projects and learn at least 5 new Technologies."]
-hobbies: [" Video Games","Football", "Cinema", "Skateboarding", "Art", "Comedy"]
+  - C#
+  - OOP
+  - JavaScript
+  - Database Design
+  - SQL
+  - Entity Framework
+  - ASP.NET Core
+  - RESTful API
+  - Git & GitHub
+  - Internship: Web development using ASP.NET @ ITI
+currently_learning:
+  - Docker
+  - Angular Framework
+goals_2024:
+  - Build 15+ projects
+  - Learn 5 new technologies
+hobbies:
+  - 🎮 Video Games
+  - ⚽ Football
+  - 🎬 Cinema
+  - 🛹 Skateboarding
+  - 🎨 Art
+  - 😂 Comedy
+
 
   
----  
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" alt="csharp" width="45" height="45"/>
-</p>
-
----
-
-<h2> 📈 &nbsp;My GitHub History!</h2>
-
-![Ahmed-Elghobary's Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Elghobary&theme=prussian&show_icons=true&hide_border=true&count_private=true)       ![Ahmed-Elghobary's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elghobary&theme=prussian&show_icons=true&hide_border=true&layout=compact)
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
